@@ -1,14 +1,13 @@
-# Daniel Obara
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielobara/)](https://www.linkedin.com/in/danielobara/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10564639/daniel-obara)](https://stackoverflow.com/users/10564639/daniel-obara)
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
-[![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)
+# Lucas Macedo
+[![Linkedin Badge](https://img.shields.io/badge/-lucasomac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasomac/)](https://www.linkedin.com/in/lucasomac/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11747903/lucas-macedo)](https://stackoverflow.com/users/11747903/lucas-macedo)
+[![Gmail Badge](https://img.shields.io/badge/-lukarado.olv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukarado.olv@gmail.com)](mailto:lukarado.olv@gmail.com)
 ## Hi 👋, 
-I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I am a bachelor of computer science, python and java developer. 👨‍💻 who is passionate about JavaScript technologies and mobile development. 
 
-- 🔭 I’m currently working on JavaScript and Ruby apps/systems
-- 🌱 I’m currently learning IA,Ruby,DevOps and of course JS improvments
-- 💬 Ask me about: tech, karate, anime and a little bit about investments.
--  ⚡ Technologies: React, Node, Adonis, React-Native
+- 🔭 I’m currently working on infrastructure analyst
+- 🌱 I’m currently learning Javascipt, cloud computing and of course JS improvments
+- 💬 Ask me about: tech, acoustic guitar, mobile, series and movies.
+- ⚡ Technologies: React, Node, React-Native
 
-"Do not expect from others what you expect of yourself." 
+"We are what we do to change what we were." 
