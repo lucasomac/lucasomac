@@ -11,7 +11,7 @@
 Bacharel em ciência da computação e atualmente trabalho na área de infraestrutura e rede na empres Stefanini Group. Dentre as principais habilidades estão moritoramento de rede atraves de zabbix e administração do Windoes Server. Embora trabalhando com infraestrutura, sou desenvolverdor python, javascript e java. Apaixonado por mobile estou procurando aprender e aperfeiçoar nessa área. Amante de tecnolgia do geral.
 
 - 🌱 Atualmente estou aprendendo Javascript, computação em nuvem e desenvolvimento em liguagem python
-- 💬 Do que eu gosto: tecnologia, violão(somente om hebie), mobile, série e filmes.
+- 💬 Do que eu gosto: tecnologia, violão(somente como hobie), mobile, série e filmes.
 - ⚡ Tescnologias: React, Node, React-Native
 
 "Somos o que fazemos para mudar o que fomos!" 
