@@ -1,5 +1,5 @@
 # Lucas Macedo
-[![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-bluestyle?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
+[![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-blue?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
 [![Lucas Macedo Github](https://img.shields.io/badge/-lucasomac-lightgrey?logo=github "github")](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
