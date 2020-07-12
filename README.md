@@ -5,7 +5,7 @@
 [![Lucas Macedo Instagram](https://img.shields.io/badge/-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
 [![Lucas Macedo Facebook](https://img.shields.io/badge/-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac) 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?logo=Stackoverflow)](https://stackoverflow.com/users/11747903/lucas-macedo)
-[![Gmail Badge](https://img.shields.io/badge/-lukarado.olv@gmail.com-c14438?logo=Gmail)](mailto:lukarado.olv@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lukarado.olv@gmail.com-C14438?logo=Gmail)](mailto:lukarado.olv@gmail.com)
 ## Olá, sou Lucas👋, 
 Bacharel em ciência da computação e atualmente trabalho na área de infraestrutura e rede na empres Stefanini Group. Dentre as principais habilidades estão moritoramento de rede atraves de zabbix e administração do Windoes Server. Embora trabalhando com infraestrutura, sou desenvolverdor python, javascript e java. Apaixonado por mobile estou procurando aprender e aperfeiçoar nessa área. Amante de tecnolgia do geral.
 
@@ -14,3 +14,10 @@ Bacharel em ciência da computação e atualmente trabalho na área de infraestr
 - ⚡ Tescnologias: React, Node, React-Native
 
 "Somos o que fazemos para mudar o que fomos!" 
+
+**Minha Stack atual:**
+![javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![react](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
+![python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
+![node](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
+![java](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)
