@@ -1,11 +1,11 @@
 # Lucas Macedo
-[![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-bluestyle=flat-square&logo=Linkedin&logoColor=white "linkedin")](https://www.linkedin.com/in/lucasomac)
+[![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-bluestyl?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
 [![Lucas Macedo Github](https://img.shields.io/badge/-lucasomac-lightgrey?logo=github "github")](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
 [![Lucas Macedo Facebook](https://img.shields.io/badge/-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac) 
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/11747903/lucas-macedo)
-[![Gmail Badge](https://img.shields.io/badge/-lukarado.olv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lukarado.olv@gmail.com)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?logo=Stackoverflow)](https://stackoverflow.com/users/11747903/lucas-macedo)
+[![Gmail Badge](https://img.shields.io/badge/-lukarado.olv@gmail.com-c14438?logo=Gmail)](mailto:lukarado.olv@gmail.com)
 ## Olá, sou Lucas👋, 
 Bacharel em ciência da computação e atualmente trabalho na área de infraestrutura e rede na empres Stefanini Group. Dentre as principais habilidades estão moritoramento de rede atraves de zabbix e administração do Windoes Server. Embora trabalhando com infraestrutura, sou desenvolverdor python, javascript e java. Apaixonado por mobile estou procurando aprender e aperfeiçoar nessa área. Amante de tecnolgia do geral.
 
