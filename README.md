@@ -1,21 +1,24 @@
 # Lucas Macedo
 
-Bacharel em ciência da computação e atualmente trabalho na área de infraestrutura e rede na empres Stefanini Group. Dentre as principais habilidades estão moritoramento de rede atraves de zabbix e administração do Windoes Server. Embora trabalhando com infraestrutura, sou desenvolverdor python, javascript e java. Apaixonado por mobile estou procurando aprender e aperfeiçoar nessa área. Amante de tecnolgia do geral.
+## Ah quem sou eu? 🤔🤔
 
-- 🌱 Atualmente estou aprendendo Javascript, computação em nuvem e desenvolvimento em liguagem python
-- 💬 Do que eu gosto: tecnologia, violão(somente como hobie), mobile, série e filmes.
-- ⚡ Tescnologias: React, Node, React-Native
+Primeiramente um cara apaixonado por tecnologia e que tem fascínio em tentar criar soluções para o mundo através de dispositivos mobile.
 
-"Somos o que fazemos para mudar o que fomos!" 
+## Minha formação 🎓
 
-**Minha Stack atual:**
-- Javascript
-- React
-- Python
-- Node
-- Java
+- Bacharel em ciência da computação e que atualmente trabalho na área de devenvolvimento mobile para sistema operacioanl Android.
+- Técnico em informática com habilitação em desenvolvimento de sistemas.
 
-Onde me encontrar
+## Tecnologias que conheço
+
+<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645754-9ba10380-7492-11eb-8cb4-796ec3385dd5.png" alt="Android"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645775-a9ef1f80-7492-11eb-80aa-54c4dc30b9f8.png" alt="Kotlin"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645827-d60aa080-7492-11eb-9f4e-9f92289dca3c.png" alt="Firebase"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646901-14558f00-7496-11eb-8f1a-ac4258a63e9a.png" alt="JavaScript"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646192-cf305d80-7493-11eb-803e-e3df0a0ad8c9.png" alt="MySQL"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645712-7f9d6200-7492-11eb-956d-30912957293e.png" alt="Java"/></code>
+
+## Onde me encontrar 🌍
 [![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-blue?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
 [![Lucas Macedo Github](https://img.shields.io/badge/-lucasomac-lightgrey?logo=github "github")](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
