@@ -28,9 +28,20 @@
 <code><a href="https://angular.io/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116491185-ac456f80-a86f-11eb-8d75-1db4d0e5ff8c.png" alt="Angular"/></a></code>
 
 ## Estatísticas para nerds
+<p align="justify">
+  <a href="https://github.com/lucasomac/github-readme-stats">
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api?username=lucasomac&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula"
+    />
+  </a>
+   <a href="https://github.com/lucasomac/github-readme-stats">
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasomac&layout=compact&theme=dracula" />
+  </a>  
+</p>
 
-[![estatísticas](https://github-readme-stats.vercel.app/api?username=lucasomac&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/lucasomac)
-[![estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasomac&theme=dracula&layout=compact&langs_count=10&custom_title=lucasomac%27s+Most+Used+Languages)](https://github.com/lucasomac)
 
 ## Onde me encontrar 🌍
 [![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-blue?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
