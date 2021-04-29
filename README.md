@@ -2,9 +2,9 @@
 
 ## Ah quem sou eu? 🤔🤔
 
-Primeiramente um cara apaixonado por tecnologia e que tem fascínio em tentar criar soluções para o mundo através de dispositivos mobile. Depois disso um cara que nunca deixou de estudar e sabe que não se deve parar. Mas e o que mais? 
+- Primeiramente um cara apaixonado por tecnologia e que tem fascínio em tentar criar soluções para o mundo através de dispositivos mobile. Depois disso um cara que nunca deixou de estudar e sabe que não se deve parar. Mas e o que mais? 
 
-Ah, desenvolvedor android que ama o ecosistema deste SO e a liberdade que ele dá a seus desenvolvedores. Um cara que nas horas vagas gosta de ouvir música(codar ouvindo música também), assistir um bom filme/série 🍿🎬 e que de vez em quando se arrisca a tirar umas notas no violão 🎸. E além de tudo isso não poderia deixar de falar um Nordestino Arretado da cidade de Aracaju-SE.
+- Ah, desenvolvedor android que ama o ecosistema deste SO e a liberdade que ele dá a seus desenvolvedores. Um cara que nas horas vagas gosta de ouvir música(codar ouvindo música também), assistir um bom filme/série 🍿🎬 e que de vez em quando se arrisca a tirar umas notas no violão 🎸. E além de tudo isso não poderia deixar de falar um Nordestino Arretado da cidade de Aracaju-SE.
 
 ## Minha formação 🎓
 
@@ -12,13 +12,15 @@ Ah, desenvolvedor android que ama o ecosistema deste SO e a liberdade que ele d�
 - Bacharel em ciência da computação pela Universidade Federal de Sergipe.
 - Técnico em informática com habilitação em desenvolvimento de sistemas pelo SENAI.
 
-## Tecnologias que conheço
+## Tecnologias com conhecimento
 
 <code><a href="https://www.android.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492019-9fc21680-a871-11eb-97ef-264bc9a65381.png" alt="Android"/></a></code>
 <code><a href="https://kotlinlang.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492027-a18bda00-a871-11eb-9377-bc44d1edb812.png" alt="Kotlin"/></a></code>
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492025-a0f34380-a871-11eb-8635-2414e3850122.png" alt="Java"/></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492026-a18bda00-a871-11eb-96f7-6054448fd362.png" alt="JavaScript"/></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492023-a05aad00-a871-11eb-9095-b89adb134403.png" alt="Firebase"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492556-e8c69a80-a872-11eb-8995-6722e8e0a47d.png" alt="Python"/></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492666-39d68e80-a873-11eb-97a0-b6a213378843.png" alt="React"/></a></code>
 
 ## Tecnologias em processo de conhecimento
 
