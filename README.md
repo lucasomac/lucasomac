@@ -14,17 +14,16 @@ Ah, desenvolvedor android que ama o ecosistema deste SO e a liberdade que ele d�
 
 ## Tecnologias que conheço
 
-<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645754-9ba10380-7492-11eb-8cb4-796ec3385dd5.png" alt="Android"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645775-a9ef1f80-7492-11eb-80aa-54c4dc30b9f8.png" alt="Kotlin"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645827-d60aa080-7492-11eb-9f4e-9f92289dca3c.png" alt="Firebase"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646901-14558f00-7496-11eb-8f1a-ac4258a63e9a.png" alt="JavaScript"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646192-cf305d80-7493-11eb-803e-e3df0a0ad8c9.png" alt="MySQL"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645712-7f9d6200-7492-11eb-956d-30912957293e.png" alt="Java"/></code>
+<code><a href="https://www.android.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492019-9fc21680-a871-11eb-97ef-264bc9a65381.png" alt="Android"/></a></code>
+<code><a href="https://kotlinlang.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492027-a18bda00-a871-11eb-9377-bc44d1edb812.png" alt="Kotlin"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492025-a0f34380-a871-11eb-8635-2414e3850122.png" alt="Java"/></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492026-a18bda00-a871-11eb-96f7-6054448fd362.png" alt="JavaScript"/></a></code>
+<code><a href="https://firebase.google.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492023-a05aad00-a871-11eb-9095-b89adb134403.png" alt="Firebase"/></a></code>
 
 ## Tecnologias em processo de conhecimento
 
-<code><img height="32" src="https://user-images.githubusercontent.com/14005194/116490871-df3b3380-a86e-11eb-8dec-6bc2f155859d.png" alt="Flutter"/></code>
-<code><a href="https://angular.io/" target="_blank"><img height="32" src="https://user-images.githubusercontent.com/14005194/116491185-ac456f80-a86f-11eb-8d75-1db4d0e5ff8c.png" alt="Angular"/></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116490871-df3b3380-a86e-11eb-8dec-6bc2f155859d.png" alt="Flutter"/></a></code>
+<code><a href="https://angular.io/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116491185-ac456f80-a86f-11eb-8d75-1db4d0e5ff8c.png" alt="Angular"/></a></code>
 
 ## Onde me encontrar 🌍
 [![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-blue?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
