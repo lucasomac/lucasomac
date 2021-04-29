@@ -31,13 +31,13 @@
 <p align="justify">
   <a href="https://github.com/lucasomac/github-readme-stats">
     <img
-      height="200"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=lucasomac&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula"
     />
   </a>
    <a href="https://github.com/lucasomac/github-readme-stats">
     <img
-      height="200"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasomac&layout=compact&theme=dracula" />
   </a>  
 </p>
