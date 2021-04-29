@@ -3,8 +3,8 @@
 ## Ah quem sou eu? 🤔🤔
 
 - Primeiramente um cara apaixonado por tecnologia e que tem fascínio em tentar criar soluções para o mundo através de dispositivos mobile. Depois disso um cara que nunca deixou de estudar e sabe que não se deve parar. Mas e o que mais? 
-
 - Ah, desenvolvedor android que ama o ecosistema deste SO e a liberdade que ele dá a seus desenvolvedores. Um cara que nas horas vagas gosta de ouvir música(codar ouvindo música também), assistir um bom filme/série 🍿🎬 e que de vez em quando se arrisca a tirar umas notas no violão 🎸. E além de tudo isso não poderia deixar de falar um Nordestino Arretado da cidade de Aracaju-SE.
+- Já se me perguntar onde pretendo chegar a resposta será: Ao infinito ...e além!
 
 ## Minha formação 🎓
 
@@ -26,6 +26,11 @@
 
 <code><a href="https://flutter.dev/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116490871-df3b3380-a86e-11eb-8dec-6bc2f155859d.png" alt="Flutter"/></a></code>
 <code><a href="https://angular.io/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116491185-ac456f80-a86f-11eb-8d75-1db4d0e5ff8c.png" alt="Angular"/></a></code>
+
+## Estatísticas para nerds
+
+[![estatísticas](https://github-readme-stats.vercel.app/api?username=lucasomac&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/lucasomac)
+[![estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasomac&theme=dracula&layout=compact&langs_count=10&custom_title=lucasomac%27s+Most+Used+Languages)](https://github.com/lucasomac)
 
 ## Onde me encontrar 🌍
 [![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-blue?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
