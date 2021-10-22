@@ -12,7 +12,7 @@
 - Bacharel em ciência da computação pela Universidade Federal de Sergipe.
 - Técnico em informática com habilitação em desenvolvimento de sistemas pelo SENAI.
 
-## Tecnologias com conhecimento
+## Minha Stack atual
 
 <code><a href="https://www.android.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492019-9fc21680-a871-11eb-97ef-264bc9a65381.png" alt="Android"/></a></code>
 <code><a href="https://kotlinlang.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492027-a18bda00-a871-11eb-9377-bc44d1edb812.png" alt="Kotlin"/></a></code>
@@ -21,10 +21,10 @@
 <code><a href="https://firebase.google.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492023-a05aad00-a871-11eb-9095-b89adb134403.png" alt="Firebase"/></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492556-e8c69a80-a872-11eb-8995-6722e8e0a47d.png" alt="Python"/></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492666-39d68e80-a873-11eb-97a0-b6a213378843.png" alt="React"/></a></code>
-
-## Tecnologias em processo de aprendizado
-
 <code><a href="https://flutter.dev/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116490871-df3b3380-a86e-11eb-8dec-6bc2f155859d.png" alt="Flutter"/></a></code>
+
+## Minha Stack em aprendizado
+
 <code><a href="https://angular.io/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116491185-ac456f80-a86f-11eb-8d75-1db4d0e5ff8c.png" alt="Angular"/></a></code>
 
 ## Estatísticas para nerds
