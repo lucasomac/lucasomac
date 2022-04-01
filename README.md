@@ -23,6 +23,12 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492666-39d68e80-a873-11eb-97a0-b6a213378843.png" alt="React"/></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116490871-df3b3380-a86e-11eb-8dec-6bc2f155859d.png" alt="Flutter"/></a></code>
 
+## Banco de dados
+
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## Em aprendizado
 
 <code><a href="https://angular.io/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116491185-ac456f80-a86f-11eb-8d75-1db4d0e5ff8c.png" alt="Angular"/></a></code>
