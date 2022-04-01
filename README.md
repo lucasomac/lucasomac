@@ -1,6 +1,6 @@
-# Lucas Macedo
+# Olá 👋 eu sou Lucas 👨‍💻
 
-## Ah quem sou eu? 🤔🤔
+## Mas quem é o Lucas? 🤔🤔
 
 - Primeiramente um cara apaixonado por tecnologia e que tem fascínio em tentar criar soluções para o mundo através de dispositivos mobile. Depois disso um cara que nunca deixou de estudar e sabe que não se deve parar. Mas e o que mais? 
 - Ah, desenvolvedor android que ama o ecosistema deste SO e a liberdade que ele dá a seus desenvolvedores. Um cara que nas horas vagas gosta de ouvir música(codar ouvindo música também), assistir um bom filme/série 🍿🎬 e que de vez em quando se arrisca a tirar umas notas no violão 🎸. E além de tudo isso não poderia deixar de falar que sou um Nordestino Arretado 🤠 da cidade de Aracaju-SE.
@@ -12,7 +12,7 @@
 - Bacharel em ciência da computação pela Universidade Federal de Sergipe.
 - Técnico em informática com habilitação em desenvolvimento de sistemas pelo SENAI.
 
-## Minha Stack atual
+## Linguagens e Frameworks
 
 <code><a href="https://www.android.com/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492019-9fc21680-a871-11eb-97ef-264bc9a65381.png" alt="Android"/></a></code>
 <code><a href="https://kotlinlang.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492027-a18bda00-a871-11eb-9377-bc44d1edb812.png" alt="Kotlin"/></a></code>
@@ -23,7 +23,7 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116492666-39d68e80-a873-11eb-97a0-b6a213378843.png" alt="React"/></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116490871-df3b3380-a86e-11eb-8dec-6bc2f155859d.png" alt="Flutter"/></a></code>
 
-## Minha Stack em aprendizado
+## Em aprendizado
 
 <code><a href="https://angular.io/" target="_blank"><img height="64" src="https://user-images.githubusercontent.com/14005194/116491185-ac456f80-a86f-11eb-8d75-1db4d0e5ff8c.png" alt="Angular"/></a></code>
 
