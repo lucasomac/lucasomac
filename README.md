@@ -50,6 +50,7 @@
 
 
 ## Onde me encontrar 🌍
+[![Google Badge](https://img.shields.io/badge/Google_Developer-E37400?style=flat-square&logo=google-play&logoColor=white&link=https://developers.google.com/profile/u/lucasomac)](https://developers.google.com/profile/u/lucasomac)
 [![Lucas Macedo Linkedin](https://img.shields.io/badge/-lucasomac-blue?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
 [![Lucas Macedo Github](https://img.shields.io/badge/-lucasomac-lightgrey?logo=github "github")](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
